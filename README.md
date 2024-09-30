@@ -13,9 +13,6 @@ Welcome to the **Online-Food-Store-Eatery** project! This project is a fully fun
 8. [Contact](#contact)
 9. [Demo Screenshots](#demo-screenshots)
 
-
-
-
 ## 📖 Project Overview
 
 The **Online-Food-Store-Eatery** is designed to facilitate online food ordering and delivery services. The platform allows users to explore various menus, place orders, and track delivery status. This project aims to streamline the food ordering process for both customers and restaurant owners.
@@ -37,18 +34,19 @@ The **Online-Food-Store-Eatery** is designed to facilitate online food ordering 
 ## 🛠️ Technologies Used
 
 - **Frontend**:
-  - ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) - For structuring web pages.
-  - ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) - For styling and designing the web pages.
-  - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) - For interactive and dynamic user interfaces.
-  - ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) - For responsive design.
+  - [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5) - For structuring web pages.
+  - [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS) - For styling and designing the web pages.
+  - [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - For interactive and dynamic user interfaces.
+  - [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/) - For responsive design.
 
 - **Backend**:
-  - ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white) - For server-side development.
-  - ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white) - For building web applications and APIs.
-  - ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) - For static typing in JavaScript.
+  - [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)](https://nodejs.org/) - For server-side development.
+  - [![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/) - For building web applications and APIs.
 
 - **Database**:
-  - ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) - For storing user and order data.
+  - [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/) - For storing user and order data.
+  - [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/) - For real-time database and authentication.
+  - [![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://www.heroku.com/) - For deployment and cloud hosting.
 
 ## ⚙️ Installation
 
@@ -78,11 +76,8 @@ node server.js
 🚀 In your local environment (e.g., VS Code, WebStorm, Sublime Text, Atom, Brackets, etc.), install the Live Server Extension to access the built website. Open Live Server from the VS Code search tab, which will open the deployed website in a browser tab.
 
 🔑 Admin Login Credentials
-
-- Username: admin
-- Password: admin00000
-
-
+Username: admin
+Password: admin00000
 🤝 Contributing
 Contributions are welcome! If you would like to contribute to the project, please follow these steps:
 
