@@ -1,0 +1,30 @@
+body {
+    background: linear-gradient(135deg, #002147, #800000, #4a148c);
+    color: #ffffff;
+  }
+  
+  .bg-maroon {
+    background-color: #800000;
+  }
+  
+  .bg-dark-blue {
+    background-color: #002147;
+  }
+  
+  .bg-dark-lavender {
+    background-color: #4a148c;
+  }
+  
+  .text-light {
+    color: #ffffff;
+  }
+  
+  .btn-maroon {
+    background-color: #800000;
+    color: #ffffff;
+    border: none;
+  }
+  
+  .btn-maroon:hover {
+    background-color: #a51c3c;
+  }  

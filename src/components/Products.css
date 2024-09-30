@@ -1,0 +1,33 @@
+.product-card {
+    background: linear-gradient(to right, teal, coral, gold);
+    border-radius: 10px;
+    transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.product-card:hover {
+    transform: scale(1.05);
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+}
+
+.buttons button {
+    border: 5px solid transparent;
+    text-size-adjust: 10px;
+    color: whitesmoke;
+    transition: background-color 0.3s, border-color 0.3s;
+}
+
+.buttons button:hover {
+    background-color: rgba(0, 0, 0, 0.1);
+    border-color: rgba(0, 0, 0, 0.2);
+}
+
+
+.category-button {
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin: 10px;
+}
+
+.category-button:hover {
+    background-color: rgba(0, 0, 0, 0.1);
+}

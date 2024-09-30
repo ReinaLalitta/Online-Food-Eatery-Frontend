@@ -1,0 +1,28 @@
+.about-container {
+    background-color: gainsboro;
+    color: white;
+    padding: 20px;
+    border-radius: 8px;
+  }
+  
+  .about-description {
+    color: #c0392b;
+  }
+  
+  .menu-card {
+    border: none;
+    background-color: #3498db;
+    border-radius: 10px;
+    transition: transform 0.3s;
+  }
+  
+  .menu-card:hover {
+    transform: scale(1.05);
+  }
+  
+  .menu-image {
+    border-radius: 10px 10px 0 0;
+    height: 160px;
+    object-fit: cover;
+  }
+  

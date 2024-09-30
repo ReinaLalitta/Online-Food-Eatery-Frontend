@@ -1,0 +1,58 @@
+body {
+    background-color: lightcoral;
+    color: #ffffff;
+  }
+  
+  .cart-empty {
+    background-color: #800000;
+    color: white;
+  }
+  
+  .card {
+    background-color: #3e2723;
+    border-radius: 10px;
+  }
+  
+  .card-header {
+    background-color: #4a148c;
+  }
+  
+  .btn-light {
+    background-color: #800000;
+    border: none;
+    transition: background-color 0.3s ease;
+  }
+  
+  .btn-light:hover {
+    background-color: #a51c3c;
+  }
+  
+  .list-group-item {
+    background-color: transparent;
+    color: #ffffff;
+  }
+  
+
+  footer {
+    background-color: #3e2723;
+    color: #ffffff;
+    padding: 0px;
+    text-align: center;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+  }
+  
+  .footer a {
+    color: #ffffff;
+    transition: color 0.3s ease;
+  }
+  
+  .footer a:hover {
+    color: #a51c3c;
+  }
+  
+
+  .container {
+    padding-bottom: 10px;
+  }  
